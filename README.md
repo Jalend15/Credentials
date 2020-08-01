@@ -1,2 +1,2 @@
 # Credentials
-This repository contains my Resume, Certification and my achievements
+This repository contains my Resume, Certifications and my achievements
