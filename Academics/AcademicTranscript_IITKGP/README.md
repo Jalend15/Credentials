@@ -1,7 +1,7 @@
-CGPA: 9.37/10 
+CGPA: 9.43/10 
 
 
-Minor CGPA: 9.47/10
+Minor CGPA: 9.62/10
 
 ![IMG-0200](https://user-images.githubusercontent.com/43926105/89133329-969d5680-d538-11ea-961e-b9af57ed2627.JPG)
 ![IMG-0198](https://user-images.githubusercontent.com/43926105/89133332-97ce8380-d538-11ea-97ba-67800c1ab709.JPG)
